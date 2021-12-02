@@ -1,3 +1,5 @@
+<h1 align="center">Hi 👋, I'm Tim</h1>
+<h3 align="center">A passionate developer from Switzerland</h3>
 - 👋 Hi, I’m @sempex
 - 👀 I’m interested in Webdesign, Python, Javascript, and everything in contact with IT.
 - 🌱 I’m currently learning Javascript.
