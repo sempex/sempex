@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello there!, I'm Tim</h1>
-<h3 align="center">an 18-year-old Computer Science apprentice at PostFinance, on a mission to transform ideas into impactful solutions.</h3>  
+<h3 align="center">an 19-year-old Computer Science apprentice at PostFinance, on a mission to transform ideas into impactful solutions.</h3>  
 
 
 🚀 Currently, I'm diving deep into the realms of TypeScript, Kubernetes, Python, Go, and Next.js, cultivating a passion for building robust and scalable systems. My journey began early, and now, as an apprentice at PostFinance, I'm thrilled to contribute my skills to real-world projects.
